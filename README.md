@@ -1,7 +1,7 @@
 
 ### Hi, Welcome To My Github Profile 👋 👋 👋
 
-I'm Batuhan, im working on Web Design. I am sharing my projects in here. I usually using Html-css-Javascript for Android projects. 
+I'm Batuhan, im working on Web Design. I am sharing my projects in here. I usually using Html-css-Javascript for Web projects. 
 <h3 align="center">Connect with me:</h3>
 
 <p align="center">
